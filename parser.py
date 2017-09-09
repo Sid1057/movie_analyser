@@ -6,8 +6,6 @@ import pandas as pd
 
 from functools import reduce
 
-print('hello, bitch')
-
 main_url = 'http://www.imdb.com/'
 user_id = 'ur58625091'
 list_name = 'ratings'
